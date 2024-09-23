@@ -7,11 +7,12 @@
 +++++          +++          +++
 
 Welcome to DW's Speech to Text converter!
-Below are some basic guidelines to follow:\
+Below are some basic guidelines to follow:
 
 Keep vocal statements to one or two sentences  
 Do not pronounce punctuation
 Annunciate words clearly 
+Say "Restart" at any point to start from the beginning
 For additional instructions, say "Help" 
 
 IMPORTANT: A WitAI API Key will be needed, instructions can be found in Help, section 5
