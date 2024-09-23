@@ -1,0 +1,30 @@
+==================== HELP GUIDE ====================
+
+Welcome to DW's Speech to Text converter!
+This program allows you to transcribe your speech into text and save it to a file.
+Follow the instructions below to use the program:
+
+1. **Basic Commands**:
+   - To request these instructions again, say "Help" at any time.
+   - To quit and stop transcription, say "Quit" when you're done.
+
+2. **File Options**:
+   - You will be asked whether you want to "Overwrite" or "Add" to an existing file.
+     - If you want to overwrite the file's content, say "One".
+     - If you want to add text to the end of the file, say "Two".
+
+3. **Choosing a File**:
+   - After selecting how to handle the file (overwrite or add), you will be prompted to provide the file's name.
+   - Just speak the name of the file (without the extension), and the program will save your text there. It will automatically add the `.txt` extension.
+
+4. **Transcribing Speech**:
+   - Once the file is selected, the program will continuously listen for your voice and convert it into text.
+   - After each phrase, the text will be saved to the file.
+   - Say "Quit" to stop transcription and close the program.
+
+Remember, you need an active internet connection to use this program, as it relies on WitAI's Speech Recognition API to convert speech to text.
+
+For any questions, just say "Help"!
+
+=====================================================
+Written by Dallas Wade, 2024

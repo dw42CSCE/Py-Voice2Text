@@ -1,0 +1,14 @@
++++++    ++           ++           ++
++    +     +         +  +         +
++     +     +       +    +       +
++     +      +     +      +     +
++    +        +   +        +   +
++++++          +++          +++
+
+Welcome to DW's Speech to Text converter!
+To request instructions, say \"Help\"      
+Have fun!
+      
+Writen by Dallas Wade
+
+-------------------------------------------------------------------------------
