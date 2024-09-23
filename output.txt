@@ -1,0 +1,7 @@
+This is the file that the text will be added to if the user declares the name of the file to be output
+The user must make a statement and then wait for the que before making the next statement
+Any statement written or spoken before the que is given will be on the same line
+Statements that are too long will timeout and not be written
+Users should not talk for long before pausing for the program to write
+Users should not state punctuation
+Say "1" and "output" to overwrite the file

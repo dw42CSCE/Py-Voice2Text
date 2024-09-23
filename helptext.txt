@@ -22,9 +22,26 @@ Follow the instructions below to use the program:
    - After each phrase, the text will be saved to the file.
    - Say "Quit" to stop transcription and close the program.
 
-Remember, you need an active internet connection to use this program, as it relies on WitAI's Speech Recognition API to convert speech to text.
+5. **Setting up WitAI**
+   - Go to Wit.ai 
+   - Click Continue with Meta
+   - Follow instructions and create a free account
+   - Click New App, name it, and click create
+   - Under app settings, click Understanding
+   - Scroll to "Try the HTTP API"
+   - Find the following:
+      curl ^
+         -H "Authorization: Bearer QWERTYUIOPASDFGHJKLZXCVBNMQWERTY" ^
+         "https://api.wit.ai/message?v=**********="
+   - Copy the unique 32 character string that is after the word "BEARER" from the above
+   - In the same folder with main.py, create a file called .env
+   - In this file, write the following:
+      API_KEY=QWERTYUIOPASDFGHJKLZXCVBNMQWERTY
+   - Enjoy  
+   - IMPORTANT: If you want to push this project to your github, make sure to add .env to your .gitignore file
 
-For any questions, just say "Help"!
+
+Remember, you need an active internet connection to use this program, as it relies on WitAI's Speech Recognition API to convert speech to text.
 
 =====================================================
 Written by Dallas Wade, 2024

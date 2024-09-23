@@ -1,3 +1,4 @@
+
 +++++    ++           ++           ++
 +    +     +         +  +         +
 +     +     +       +    +       +
@@ -6,9 +7,17 @@
 +++++          +++          +++
 
 Welcome to DW's Speech to Text converter!
-To request instructions, say \"Help\"      
+Below are some basic guidelines to follow:\
+
+Keep vocal statements to one or two sentences  
+Do not pronounce punctuation
+Annunciate words clearly 
+For additional instructions, say "Help" 
+
+IMPORTANT: A WitAI API Key will be needed, instructions can be found in Help, section 5
+
 Have fun!
       
-Writen by Dallas Wade
+Written by Dallas Wade
 
 -------------------------------------------------------------------------------

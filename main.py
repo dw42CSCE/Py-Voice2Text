@@ -42,7 +42,7 @@ def record_text():
         except sr.RequestError as e:
             print("Could not request results; {0}".format(e))
         except sr.UnknownValueError:
-            print("Unknown error occured")
+            print("Waiting")
 
     return
 
