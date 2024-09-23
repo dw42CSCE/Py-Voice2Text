@@ -55,8 +55,6 @@ def output_text(text, f):
     f.write("\n")
     f.close()
 
-running = True
-
 while(running):
     print("Do you want to overwrite a file or add to one?\n1. Overwrite \n2. Add" )
 
@@ -86,6 +84,8 @@ while(running):
         break
 
     file = filename + ".txt"
+
+    running = True
 
     # Ensures user doesnt alter helptext file, 
     while file == "helptext.txt" or file == "help.txt": 
